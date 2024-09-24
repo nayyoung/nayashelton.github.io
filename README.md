@@ -23,7 +23,7 @@ I live in *Garner, NC*. I was born and raised in *Buffalo, NY*. I have a Bachelo
 
 ![Cat Reading](https://media.giphy.com/media/maJc7RZlCIjzq/giphy.gif)
 
-## Boba Tea Shops that I Enjoy
+## Websites for Local Boba Tea that I Recommend
 
 1. **Milk Lab**  
    [Website](https://www.milklabtea.com/)  
