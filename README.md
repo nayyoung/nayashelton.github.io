@@ -20,6 +20,9 @@ I live in *Garner, NC*. I was born and raised in *Buffalo, NY*. I have a Bachelo
 3. Drawing
 4. Watching movies
 5. Hiking
+
+![Cat Reading](https://media.giphy.com/media/maJc7RZlCIjzq/giphy.gif)
+
 ## Boba Tea Shops that I Enjoy
 
 1. **Milk Lab**  
