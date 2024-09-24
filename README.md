@@ -1,20 +1,8 @@
-# nayashelton.github.io
 
-Naya Shelton njyoung@my.waketech.edu
-
-
-My github username is nayyoung. I created it in 2016. It's a GitHub Pro account.
-
-
-I created a repository called nayashelton.github.io. It is a public repo with a README file and no other files.
-
-
-I cloned the repository by connecting my VSCODE text editor to my GitHub account, and running the clone repo command for nayashelton.github.io. I then selected a file destination and opened the README.MD file.
-
---------
 # About Me
-I live in *Garner, NC*. I was born and raised in *Buffalo, NY*. I have a Bachelor's degree in *Political Science* from UNC Chapel Hill.
+My name is Naya Shelton. I live in *Garner, NC*. I was born and raised in *Buffalo, NY*. 
 ## My Hobbies
+I enjoy the following activities in my free time:
 1. Reading
 2. Bookbinding
 3. Drawing
